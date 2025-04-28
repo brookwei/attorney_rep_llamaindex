@@ -1,0 +1,6 @@
+streamlit
+llama_cloud_services
+json
+pandas
+tempfile
+dotenv
