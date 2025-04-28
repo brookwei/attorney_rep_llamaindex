@@ -1,5 +1,5 @@
 streamlit
-llama_cloud_services
+llama-cloud-services
 json
 pandas
 tempfile
