@@ -1,6 +1,5 @@
 streamlit
 llama-cloud-services
-json
 pandas
 tempfile
 dotenv
