@@ -2,4 +2,3 @@ streamlit
 llama-cloud-services
 pandas
 dotenv
-os
