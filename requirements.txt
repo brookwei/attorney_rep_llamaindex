@@ -4,3 +4,4 @@ json
 pandas
 tempfile
 dotenv
+os
