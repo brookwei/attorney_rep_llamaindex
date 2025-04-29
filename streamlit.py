@@ -5,9 +5,9 @@ import json
 from llama_cloud_services import LlamaParse
 import json
 from dotenv import load_dotenv
+import os
 load_dotenv()
-api_key="llx-JC2JgOFpGcobqDpwCaqafLSDWFPuBXlyYz2nNqdaCXroMie3"
-
+api_key = os.environ["LLAMA_CLOUD_API_KEY"] 
 
 
 
