@@ -1,4 +1,3 @@
-streamlit
-llama-cloud-services
-pandas
-dotenv
+streamlit==1.42.0
+mistralai==1.7.0 
+python-dotenv==1.0.1
